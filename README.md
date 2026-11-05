@@ -5,8 +5,12 @@ Software Engineer passionate about building scalable applications, backend syste
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="./profile/stats.svg" height="180" alt="Nima's GitHub Statistics" />
-  <img src="./profile/top-langs.svg" height="180" alt="Nima's Most Used Programming Languages" />
+  <a href="https://github.com/nmemarcoding">
+    <img src="https://github-stats-extended.vercel.app/api?username=nmemarcoding&show_icons=true&theme=gotham&hide_border=true" height="180" alt="GitHub Statistics" />
+  </a>
+  <a href="https://github.com/nmemarcoding">
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=nmemarcoding&layout=compact&theme=gotham&hide_border=true&langs_count=8" height="180" alt="Top Languages" />
+  </a>
 </p>
 
 <p align="center">
@@ -73,4 +77,3 @@ Software Engineer passionate about building scalable applications, backend syste
 ## ☕ Always Learning & Building
 
 I enjoy exploring new technologies, building innovative software, and turning ideas into real-world applications.
-
