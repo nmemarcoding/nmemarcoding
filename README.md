@@ -5,8 +5,16 @@ Software Engineer passionate about building scalable applications, backend syste
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nmemarcoding&show_icons=true&theme=gotham&hide_border=true&count_private=true" height="180" alt="Nima's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nmemarcoding&layout=compact&theme=gotham&hide_border=true&langs_count=8" height="180" alt="Top Languages" />
+  <img src="./profile/stats.svg" height="180" alt="Nima's GitHub Statistics" />
+  <img src="./profile/top-langs.svg" height="180" alt="Nima's Most Used Programming Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nmemarcoding&theme=gotham&hide_border=true" alt="GitHub Contribution Streak" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nmemarcoding&style=for-the-badge&color=00ADD8&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
 
 ## 🤝 Let's Connect
@@ -34,6 +42,7 @@ Software Engineer passionate about building scalable applications, backend syste
 ## ⚙️ Technologies & Tools
 
 ### Frontend
+
 <p align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
@@ -42,15 +51,17 @@ Software Engineer passionate about building scalable applications, backend syste
 </p>
 
 ### Backend & Databases
+
 <p align="left">
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
 </p>
 
 ### DevOps, Testing & Tools
+
 <p align="left">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
@@ -59,6 +70,7 @@ Software Engineer passionate about building scalable applications, backend syste
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
-### ☕ Always Learning & Building
+## ☕ Always Learning & Building
 
-I enjoy exploring new technologies, building software, and turning ideas into real-world applications.
+I enjoy exploring new technologies, building innovative software, and turning ideas into real-world applications.
+
